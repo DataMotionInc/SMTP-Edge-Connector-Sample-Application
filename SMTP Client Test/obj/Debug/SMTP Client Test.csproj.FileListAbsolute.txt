@@ -1,0 +1,24 @@
+c:\users\kylec\documents\visual studio 2017\Projects\SMTP Client Test\SMTP Client Test\bin\Debug\SMTP Client Test.exe.config
+c:\users\kylec\documents\visual studio 2017\Projects\SMTP Client Test\SMTP Client Test\bin\Debug\SMTP Client Test.exe
+c:\users\kylec\documents\visual studio 2017\Projects\SMTP Client Test\SMTP Client Test\bin\Debug\SMTP Client Test.pdb
+c:\users\kylec\documents\visual studio 2017\Projects\SMTP Client Test\SMTP Client Test\obj\Debug\SMTP Client Test.csprojResolveAssemblyReference.cache
+c:\users\kylec\documents\visual studio 2017\Projects\SMTP Client Test\SMTP Client Test\obj\Debug\SMTP Client Test.exe
+c:\users\kylec\documents\visual studio 2017\Projects\SMTP Client Test\SMTP Client Test\obj\Debug\SMTP Client Test.pdb
+C:\Users\kylec\documents\visual studio 2017\Projects\SMTP Client Test\SMTP Client Test\bin\Debug\OpenPop.dll
+C:\Users\kylec\documents\visual studio 2017\Projects\SMTP Client Test\SMTP Client Test\bin\Debug\SMTP Client Test.exe.manifest
+C:\Users\kylec\documents\visual studio 2017\Projects\SMTP Client Test\SMTP Client Test\bin\Debug\SMTP Client Test.application
+C:\Users\kylec\documents\visual studio 2017\Projects\SMTP Client Test\SMTP Client Test\obj\Debug\SMTP Client Test.TrustInfo.xml
+C:\Users\kylec\documents\visual studio 2017\Projects\SMTP Client Test\SMTP Client Test\obj\Debug\SMTP Client Test.exe.manifest
+C:\Users\kylec\documents\visual studio 2017\Projects\SMTP Client Test\SMTP Client Test\obj\Debug\SMTP Client Test.application
+C:\Users\kylec\Documents\GitHub - DataMotion\SMTP-Edge-Connector-Sample-Application\SMTP Client Test\bin\Debug\SMTP Client Test.exe.config
+C:\Users\kylec\Documents\GitHub - DataMotion\SMTP-Edge-Connector-Sample-Application\SMTP Client Test\bin\Debug\SMTP Client Test.exe.manifest
+C:\Users\kylec\Documents\GitHub - DataMotion\SMTP-Edge-Connector-Sample-Application\SMTP Client Test\bin\Debug\SMTP Client Test.application
+C:\Users\kylec\Documents\GitHub - DataMotion\SMTP-Edge-Connector-Sample-Application\SMTP Client Test\bin\Debug\SMTP Client Test.exe
+C:\Users\kylec\Documents\GitHub - DataMotion\SMTP-Edge-Connector-Sample-Application\SMTP Client Test\bin\Debug\SMTP Client Test.pdb
+C:\Users\kylec\Documents\GitHub - DataMotion\SMTP-Edge-Connector-Sample-Application\SMTP Client Test\bin\Debug\OpenPop.dll
+C:\Users\kylec\Documents\GitHub - DataMotion\SMTP-Edge-Connector-Sample-Application\SMTP Client Test\obj\Debug\SMTP Client Test.csprojResolveAssemblyReference.cache
+C:\Users\kylec\Documents\GitHub - DataMotion\SMTP-Edge-Connector-Sample-Application\SMTP Client Test\obj\Debug\SMTP Client Test.TrustInfo.xml
+C:\Users\kylec\Documents\GitHub - DataMotion\SMTP-Edge-Connector-Sample-Application\SMTP Client Test\obj\Debug\SMTP Client Test.exe.manifest
+C:\Users\kylec\Documents\GitHub - DataMotion\SMTP-Edge-Connector-Sample-Application\SMTP Client Test\obj\Debug\SMTP Client Test.application
+C:\Users\kylec\Documents\GitHub - DataMotion\SMTP-Edge-Connector-Sample-Application\SMTP Client Test\obj\Debug\SMTP Client Test.exe
+C:\Users\kylec\Documents\GitHub - DataMotion\SMTP-Edge-Connector-Sample-Application\SMTP Client Test\obj\Debug\SMTP Client Test.pdb
