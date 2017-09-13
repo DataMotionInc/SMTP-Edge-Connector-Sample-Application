@@ -15,7 +15,7 @@ namespace SMTP_Client_Test
         static void Main(string[] args)
         {
             //SMTP Edge Connector Hostname
-            string hostname = "testing.datamotioncorp.com";
+            string hostname = "smtptesting.datamotion.com";
 
             //SMTP Edge Connector Port
             int port = 25;
@@ -41,6 +41,7 @@ namespace SMTP_Client_Test
             
             //Construct new MailMessage (from, to)
             MailMessage message = new MailMessage(username, "<target>");
+            message.Headers.Add("Disposition-Notification-Options", "Change This To An Acceptable Option");
             message.Body = "TEST MESSAGE";
             message.Subject = "TEST FROM DM";
             client.Send(message);
@@ -82,7 +83,7 @@ namespace SMTP_Client_Test
 
                 foreach(Message message in allMessages)
                 {
-                    //For every message in our list convert it to a .NET MailMessage and print the Subject line
+                    //For every message in our list convert it to a .NET MailMessage and print the Subject 
                     Console.WriteLine("Found Message:" + message.ToMailMessage().Subject);
                 }
             }

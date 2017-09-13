@@ -7,14 +7,14 @@
     <framework targetVersion="4.5.2" profile="Full" supportedRuntime="4.0.30319" />
   </compatibleFrameworks>
   <dependency>
-    <dependentAssembly dependencyType="install" codebase="SMTP Client Test.exe.manifest" size="5840">
+    <dependentAssembly dependencyType="install" codebase="SMTP Client Test.exe.manifest" size="5772">
       <assemblyIdentity name="SMTP Client Test.exe" version="1.0.0.1" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="msil" type="win32" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>Bm2LJu+LSvdeMrUBQ/ihx491K+B0ko8/a5T9nxpzq2g=</dsig:DigestValue>
+        <dsig:DigestValue>26wcIyIMRR0OvUnj4i44CSpS2xmdhaSzijwjUpHhOVo=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>

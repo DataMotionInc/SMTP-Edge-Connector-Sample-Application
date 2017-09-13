@@ -4,7 +4,7 @@
   <description asmv2:iconFile="dmfavicon.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
   <application />
   <entryPoint>
-    <assemblyIdentity name="SMTP Client Test" version="1.0.0.0" publicKeyToken="0631B4B257FBE752" language="neutral" processorArchitecture="msil" />
+    <assemblyIdentity name="SMTP Client Test" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
     <commandLine file="SMTP Client Test.exe" parameters="" />
   </entryPoint>
   <trustInfo>
@@ -56,13 +56,13 @@
   </dependency>
   <dependency>
     <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="SMTP Client Test.exe" size="76192">
-      <assemblyIdentity name="SMTP Client Test" version="1.0.0.0" publicKeyToken="0631B4B257FBE752" language="neutral" processorArchitecture="msil" />
+      <assemblyIdentity name="SMTP Client Test" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>Wl7xpydC1N/OTRIzM8rWiWQbjyZCvK41uvpY9jmwoPc=</dsig:DigestValue>
+        <dsig:DigestValue>uMgpx1T1pIRain1sFJsEtng1cmT2v/32B/G1eQO5pwQ=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
